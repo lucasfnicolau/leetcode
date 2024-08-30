@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/merge-strings-alternately/submissions/1373669401
+
 class Solution:
     def mergeAlternately(self, word1: str, word2: str) -> str:
         biggerWord = word1 if len(word1) >= len(word2) else word2
