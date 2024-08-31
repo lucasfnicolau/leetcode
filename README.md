@@ -11,7 +11,7 @@ Repository grouping my own solutions for the 100 [algomap.io](https://algomap.io
   - [x] [Is Subsequence](https://leetcode.com/problems/is-subsequence/submissions/1373697987)
   - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1374141239)
   - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1374356035)
-  - [ ] Summary Ranges
+  - [x] [Summary Ranges](https://leetcode.com/problems/summary-ranges/submissions/1374505423)
   - [ ] Product of Array Except Self
   - [ ] Merge Intervals
   - [ ] Spiral Matrix
