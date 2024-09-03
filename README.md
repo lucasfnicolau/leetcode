@@ -1,6 +1,6 @@
 # My 100 LeetCode Challenges Solutions
 
-Repository grouping my own solutions for the 100 [algomap.io](https://algomap.io) code challenges.
+Repository grouping my own solutions for the 100 LeetCode [algomap.io](https://algomap.io) code challenges.
 
 <details open>
 <summary>Arrays and Strings</summary>
