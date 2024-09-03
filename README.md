@@ -2,7 +2,7 @@
 
 Repository grouping my own solutions for the 100 [algomap.io](https://algomap.io) code challenges.
 
-<details>
+<details open>
 <summary>Arrays and Strings</summary>
   
   - [x] [Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/submissions/1373658433)
