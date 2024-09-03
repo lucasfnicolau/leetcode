@@ -12,7 +12,7 @@ Repository grouping my own solutions for the 100 [algomap.io](https://algomap.io
   - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/submissions/1374141239)
   - [x] [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/submissions/1374356035)
   - [x] [Summary Ranges](https://leetcode.com/problems/summary-ranges/submissions/1374505423)
-  - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1377159725) [to be improved]
+  - [x] [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/submissions/1377163887) [to be improved]
   - [ ] Merge Intervals
   - [ ] Spiral Matrix
   - [ ] Rotate Image
